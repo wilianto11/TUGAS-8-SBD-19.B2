@@ -1,12 +1,18 @@
 # TUGAS-8-SBD-19.B2
 # LANGKAH-LANGKAH
 # 1.BUAT TABEL
-![image](https://user-images.githubusercontent.com/81583408/120333877-56eef900-c31a-11eb-9b1b-814f685bf5a0.png)
+![image](https://user-images.githubusercontent.com/81583408/122050506-b74b6380-ce0d-11eb-8d45-52a6d026aa6f.png)
+![image](https://user-images.githubusercontent.com/81583408/122050578-c9c59d00-ce0d-11eb-88ad-a19800770992.png)
+![image](https://user-images.githubusercontent.com/81583408/122050687-e661d500-ce0d-11eb-85bf-99f801447a9b.png)
+![image](https://user-images.githubusercontent.com/81583408/122050724-f5488780-ce0d-11eb-98b0-b4bc8c758ba8.png)
 # 2.MEMASUKAN DATA
-![image](https://user-images.githubusercontent.com/81583408/120334062-856cd400-c31a-11eb-8950-4e5d1d4a0044.png)
-![image](https://user-images.githubusercontent.com/81583408/120334131-987fa400-c31a-11eb-8c71-0488dc6408f4.png)
-# 3.BUAT FOLDER BARU DI HTDOC
-![image](https://user-images.githubusercontent.com/81583408/120334577-f14f3c80-c31a-11eb-8132-0cf02908566b.png)
+![image](https://user-images.githubusercontent.com/81583408/122053021-8f113400-ce10-11eb-82b3-92426a9b0d20.png)
+![image](https://user-images.githubusercontent.com/81583408/122054217-aac90a00-ce11-11eb-990d-657d407eafaf.png)
+![image](https://user-images.githubusercontent.com/81583408/122056782-27f57e80-ce14-11eb-98fb-e87f612c8ece.png)
+![image](https://user-images.githubusercontent.com/81583408/122058938-583e1c80-ce16-11eb-9d0e-df2532544606.png)
+![image](https://user-images.githubusercontent.com/81583408/122059012-6a1fbf80-ce16-11eb-8e07-68e327da4c3a.png)
+# 3.MASUK FOLDER XAMPP BUAT FOLDER BARU DI HTDOC
+![image](https://user-images.githubusercontent.com/81583408/122059355-bd920d80-ce16-11eb-90f1-8605944aea08.png)
 # 4.BIKIN FILE KONEKSI
 ![image](https://user-images.githubusercontent.com/81583408/120335606-cd402b00-c31b-11eb-962b-19a0f1eab7ab.png)
 # tampilan browser terkoneksi
