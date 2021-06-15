@@ -13,20 +13,19 @@
 ![image](https://user-images.githubusercontent.com/81583408/122059012-6a1fbf80-ce16-11eb-8e07-68e327da4c3a.png)
 # 3.MASUK FOLDER XAMPP BUAT FOLDER BARU DI HTDOC
 ![image](https://user-images.githubusercontent.com/81583408/122059355-bd920d80-ce16-11eb-90f1-8605944aea08.png)
-# 4.BIKIN FILE KONEKSI
-![image](https://user-images.githubusercontent.com/81583408/120335606-cd402b00-c31b-11eb-962b-19a0f1eab7ab.png)
-# tampilan browser terkoneksi
-![image](https://user-images.githubusercontent.com/81583408/120335704-e21cbe80-c31b-11eb-8b69-0b27b1df65dc.png)
-# 5.BUAT FILE BARANG
-![image](https://user-images.githubusercontent.com/81583408/120353092-9b36c500-c32b-11eb-9b3e-d7b7b18a6e09.png)
-![image](https://user-images.githubusercontent.com/81583408/120353209-b86b9380-c32b-11eb-8cbf-6536c1f3718a.png)
-# 6.BUAT FILE PENJUAL
-![image](https://user-images.githubusercontent.com/81583408/120353398-d76a2580-c32b-11eb-8aab-756ac9a9c320.png)
-![image](https://user-images.githubusercontent.com/81583408/120353485-e51fab00-c32b-11eb-8f50-46e5b61f7911.png)
-# 7.BUAT FILE PEMBELI
-![image](https://user-images.githubusercontent.com/81583408/120354317-86a6fc80-c32c-11eb-98d1-85be583f95bf.png)
-![image](https://user-images.githubusercontent.com/81583408/120354454-a1797100-c32c-11eb-98e6-44276fa6487d.png)
-# 8.MENAMBHAKAN TABEL PENJUAL DAN PEMBELI KEDALAM TABEL BARANG
-![image](https://user-images.githubusercontent.com/81583408/120354849-0339db00-c32d-11eb-87c7-89041f12a20c.png)
-# TAMPILAN 
-![image](https://user-images.githubusercontent.com/81583408/120354924-13ea5100-c32d-11eb-98b6-413c5ac8d43b.png)
+# 4.BIKIN FILE CONFIG dengan Database
+![image](https://user-images.githubusercontent.com/81583408/122073678-d0124400-ce22-11eb-87e9-cac6d6da9a63.png)
+# 5.BIKIN FILE INDEX UNTUK MENAMPILKAN SEMUA TABEL DI DATABASE
+![image](https://user-images.githubusercontent.com/81583408/122074217-3ac37f80-ce23-11eb-9a6b-1242c7e0375c.png)
+![image](https://user-images.githubusercontent.com/81583408/122074314-4e6ee600-ce23-11eb-83a1-f13467ce95de.png)
+![image](https://user-images.githubusercontent.com/81583408/122074428-66df0080-ce23-11eb-9828-4db968506926.png)
+![image](https://user-images.githubusercontent.com/81583408/122074532-7eb68480-ce23-11eb-8674-5f1c1a8a879e.png)
+![image](https://user-images.githubusercontent.com/81583408/122074653-955cdb80-ce23-11eb-9fb2-a2870742b996.png)
+![image](https://user-images.githubusercontent.com/81583408/122074986-e7056600-ce23-11eb-9d88-afcb111ecf80.png)
+# 6.Untuk menampilakan ke browser http://localhost/sbd8_b2/
+![image](https://user-images.githubusercontent.com/81583408/122075455-495e6680-ce24-11eb-9917-f75e25034f0b.png)
+![image](https://user-images.githubusercontent.com/81583408/122075507-5418fb80-ce24-11eb-8b52-1362020b5a1e.png)
+# 
+![image](https://user-images.githubusercontent.com/81583408/122075362-38155a00-ce24-11eb-90a5-e88322bd7562.png)
+
+
